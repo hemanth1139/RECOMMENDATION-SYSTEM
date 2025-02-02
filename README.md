@@ -13,3 +13,5 @@ DURATION : 4 WEEKS
 MENTOR : HARISH NEELAM
 
 **OUTPUT:**
+
+![Image](https://github.com/user-attachments/assets/cdbf28f7-f173-4c91-9ca5-7b74bb535de0)
